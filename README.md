@@ -1,6 +1,6 @@
 # Project vit&react
 
-> A short description of the project.
+> react projet fro me .
 
 ## Table of Contents
 
